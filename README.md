@@ -49,7 +49,3 @@ pnpm typecheck  # typecheck all packages
 ```
 
 Press **P** to enter performance mode, **Esc** to exit.
-
-## License
-
-MIT
